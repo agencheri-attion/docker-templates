@@ -16,3 +16,7 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Resolved TODO items from previous session
 - Added CONTRIBUTING.md stub
+
+## 2026-03-23
+- Bumped patch version
+- Updated .gitignore to exclude build artifacts
