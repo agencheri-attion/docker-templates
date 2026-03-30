@@ -32,3 +32,6 @@ Personal development log — notes, findings, and ongoing work.
 - Addressed feedback from self code review
 - Fixed minor edge case in input handling
 - Ran linter, applied auto-fixes
+
+## 2026-03-30
+- Added type hints to helper functions
